@@ -1,0 +1,95 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+     font-family: 'Dancing Script', cursive;
+font-size: 25px;
+}
+.movie_head i{
+    float: right;
+    
+}
+.img{
+
+}
+.navbar-brand{
+    font-family:'Festive', cursive;
+    font-size: 30px;
+    font-weight:bolder;
+
+}
+body{
+font-family: 'Gideon Roman', cursive;
+color:black;
+    background-color:bisque;
+}
+#movies{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 110px;
+}
+p{
+    font-family: 'Gideon Roman', cursive
+    font-size: 30px;
+    text-align: center;
+}
+h2
+{ text-align: center;
+    font-family: fantasy bold;
+    font-size: 30px;
+  
+}
+.img{
+    width: 100px;
+    height: 100px;
+    
+}
+h5{
+    font-size: 20px;
+}
+h5{
+    font-size: 25px;
+}
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.environment_li img{
+    border-radius: 25px;
+    
+}
+.environment_li p{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.list-group-item-text col-lg-7 col-md-7 col-sm-7 col-xs-12{
+    font-size: 30px;
+}
+h2{
+    text-decoration: underline;
+}
+h5{
+    font-family: fantasy;
+    font-size: 20px;
+    
+}
